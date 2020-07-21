@@ -1,0 +1,31 @@
+
+p{
+	color: black;
+	padding: 5px;
+	height: 150px
+	width: 50px;
+}
+.Instagram {
+	border: 5px solid black;
+	background: pink;
+	overflow-wrap: break-word;	
+	float: left;
+}
+.Linkedin{
+	border: 5px solid black;
+	background: blue;
+	float: center;
+}
+.Snapchat{
+	border: 5px solid black;
+	background: yellow;
+	float: right;
+}
+
+tt{
+	color: white;
+	background: green;
+	border: 5px solid black;
+	padding: 5px;
+	float: right;
+}
